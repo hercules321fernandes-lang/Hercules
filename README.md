@@ -54,10 +54,10 @@ Sou uma pessoa **disciplinada**: cultivo o hábito de ler livros e de **treinar 
 ### 📫 Conecte-se comigo
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/Hercules">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:hercules.127.barbosa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
   <!-- Adicione outras redes se quiser (Instagram, LinkedIn, etc.) -->
