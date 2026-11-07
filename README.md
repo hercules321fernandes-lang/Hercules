@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou estudante do **UEA-CESIT** e estou me aprofundando em **Engenharia de Software** por meio de videoaulas.
+Sou estudante do **UEA-CESIT** e estou me aprofundando em **Engenharia de Software** por meio de Curso em Vídeo, livros.
 
 Sou uma pessoa **disciplinada**: cultivo o hábito de ler livros e de **treinar com constância**. Sou **católico** e levo minha fé como base na vida e Deus.
 
